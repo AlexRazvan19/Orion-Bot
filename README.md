@@ -18,14 +18,14 @@ All you need is a Discord account and a server — it can be either private or p
 
 COMMANDS
 
-! [Screenshot 1 Commands](screenshots/SCREENSHOT1.png)
-! [Screenshot 2 Commands](screenshots/SCREENSHOT2.png)
-! [Screenshot 3 Commands](screenshots/SCREENSHOT3.png)
-! [Screenshot 4 Commands](screenshots/SCREENSHOT4.png)
-! [Screenshot 5 Commands](screenshots/SCREENSHOT5.png)
-! [Screenshot 6 Commands](screenshots/SCREENSHOT6.png)
-! [Screenshot 7 Commands](screenshots/SCREENSHOT7.png)
-! [Screenshot 8 Commands](screenshots/SCREENSHOT8.png)
+! [Screenshot 1 Commands](screenshots/ss1.png)
+! [Screenshot 2 Commands](screenshots/ss2.png)
+! [Screenshot 3 Commands](screenshots/ss3.png)
+! [Screenshot 4 Commands](screenshots/ss4.png)
+! [Screenshot 5 Commands](screenshots/ss5.png)
+! [Screenshot 6 Commands](screenshots/ss6.png)
+! [Screenshot 7 Commands](screenshots/ss7.png)
+! [Screenshot 8 Commands](screenshots/ss8.png)
 
 FEATURES
 
@@ -49,11 +49,11 @@ Information: Quickly access detailed information about your server and its membe
 
 DEMO
 
-! [Screenshot 1](screenshots/SCREENSHOTDEMO1.png)
-! [Screenshot 2](screenshots/SCREENSHOTDEMO2.png)
-! [Screenshot 3](screenshots/SCREENSHOTDEMO3.png)
-! [Screenshot 4](screenshots/SCREENSHOTDEMO4.png)
-! [Screenshot 5](screenshots/SCREENSHOTDEMO5.png)
+! [Screenshot 1](screenshots/demo1.png)
+! [Screenshot 2](screenshots/demo2.png)
+! [Screenshot 3](screenshots/demo3.png)
+! [Screenshot 4](screenshots/demo4.png)
+! [Screenshot 5](screenshots/demo5.png)
 
 
 ROADMAP
