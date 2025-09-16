@@ -14,18 +14,18 @@ TESTING
 To test Orion, simply invite the bot to a Discord server and explore all its features.
 All you need is a Discord account and a server — it can be either private or public.
 
-([INVITATION LINK] (https://discord.com/oauth2/authorize?client_id=1409489410533228564&permissions=1652421815542&integration_type=0&scope=bot+applications.commands))
+([INVITATION LINK](https://discord.com/oauth2/authorize?client_id=1409489410533228564&permissions=1652421815542&integration_type=0&scope=bot+applications.commands))
 
 COMMANDS
 
-! [Screenshot 1 Commands] (screenshots/SCREENSHOT1.png)
-! [Screenshot 2 Commands] (screenshots/SCREENSHOT2.png)
-! [Screenshot 3 Commands] (screenshots/SCREENSHOT3.png)
-! [Screenshot 4 Commands] (screenshots/SCREENSHOT4.png)
-! [Screenshot 5 Commands] (screenshots/SCREENSHOT5.png)
-! [Screenshot 6 Commands] (screenshots/SCREENSHOT6.png)
-! [Screenshot 7 Commands] (screenshots/SCREENSHOT7.png)
-! [Screenshot 8 Commands] (screenshots/SCREENSHOT8.png)
+! [Screenshot 1 Commands](screenshots/SCREENSHOT1.png)
+! [Screenshot 2 Commands](screenshots/SCREENSHOT2.png)
+! [Screenshot 3 Commands](screenshots/SCREENSHOT3.png)
+! [Screenshot 4 Commands](screenshots/SCREENSHOT4.png)
+! [Screenshot 5 Commands](screenshots/SCREENSHOT5.png)
+! [Screenshot 6 Commands](screenshots/SCREENSHOT6.png)
+! [Screenshot 7 Commands](screenshots/SCREENSHOT7.png)
+! [Screenshot 8 Commands](screenshots/SCREENSHOT8.png)
 
 FEATURES
 
@@ -49,11 +49,11 @@ Information: Quickly access detailed information about your server and its membe
 
 DEMO
 
-! [Screenshot 1] (screenshots/SCREENSHOTDEMO1.png)
-! [Screenshot 2] (screenshots/SCREENSHOTDEMO2.png)
-! [Screenshot 3] (screenshots/SCREENSHOTDEMO3.png)
-! [Screenshot 4] (screenshots/SCREENSHOTDEMO4.png)
-! [Screenshot 5] (screenshots/SCREENSHOTDEMO5.png)
+! [Screenshot 1](screenshots/SCREENSHOTDEMO1.png)
+! [Screenshot 2](screenshots/SCREENSHOTDEMO2.png)
+! [Screenshot 3](screenshots/SCREENSHOTDEMO3.png)
+! [Screenshot 4](screenshots/SCREENSHOTDEMO4.png)
+! [Screenshot 5](screenshots/SCREENSHOTDEMO5.png)
 
 
 ROADMAP
@@ -76,7 +76,7 @@ Credits
 
 Orion was built using the following technologies and resources:
 
-([discord.py] (https://discordpy.readthedocs.io/en/stable/api.html)) — A powerful Python API wrapper for Discord, which made building Orion possible.
+([discord.py](https://discordpy.readthedocs.io/en/stable/api.html)) — A powerful Python API wrapper for Discord, which made building Orion possible.
 
 Special thanks to the open-source community for providing tools and libraries that help developers bring their ideas to life.
 
@@ -93,4 +93,4 @@ Get to Know More
 Want to see Orion in action and stay up to date with new features?
 Join the official Orion Discord Server and become part of the community:
 
-👉 ([Join Orion on Discord] (https://discord.gg/8HFa4a3Fsq))
+👉 ([Join Orion on Discord](https://discord.gg/8HFa4a3Fsq))
